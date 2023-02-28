@@ -1,0 +1,517 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-02-26">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="lat" type="double" />
+      <attribute id="1" title="lng" type="double" />
+      <attribute id="2" title="city" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AAR" label="AAR">
+        <attvalues>
+          <attvalue for="0" value="56.2999992371" />
+          <attvalue for="1" value="10.619000434899998" />
+          <attvalue for="2" value="Aarhus" />
+        </attvalues>
+      </node>
+      <node id="CRL" label="CRL">
+        <attvalues>
+          <attvalue for="0" value="50.459202000000005" />
+          <attvalue for="1" value="4.45382" />
+          <attvalue for="2" value="Charleroi" />
+        </attvalues>
+      </node>
+      <node id="BLQ" label="BLQ">
+        <attvalues>
+          <attvalue for="0" value="44.5354" />
+          <attvalue for="1" value="11.2887" />
+          <attvalue for="2" value="Bologna" />
+        </attvalues>
+      </node>
+      <node id="CWL" label="CWL">
+        <attvalues>
+          <attvalue for="0" value="51.39670181274414" />
+          <attvalue for="1" value="-3.343329906463623" />
+          <attvalue for="2" value="Cardiff" />
+        </attvalues>
+      </node>
+      <node id="BOH" label="BOH">
+        <attvalues>
+          <attvalue for="0" value="50.77999877929688" />
+          <attvalue for="1" value="-1.8424999713897705" />
+          <attvalue for="2" value="Bournemouth" />
+        </attvalues>
+      </node>
+      <node id="BRU" label="BRU">
+        <attvalues>
+          <attvalue for="0" value="50.9014015198" />
+          <attvalue for="1" value="4.48443984985" />
+          <attvalue for="2" value="Brussels" />
+        </attvalues>
+      </node>
+      <node id="CAT" label="CAT">
+        <attvalues>
+          <attvalue for="0" value="38.724998" />
+          <attvalue for="1" value="-9.35523" />
+          <attvalue for="2" value="Cascais" />
+        </attvalues>
+      </node>
+      <node id="BGY" label="BGY">
+        <attvalues>
+          <attvalue for="0" value="45.673901" />
+          <attvalue for="1" value="9.70417" />
+          <attvalue for="2" value="Bergamo" />
+        </attvalues>
+      </node>
+      <node id="BVA" label="BVA">
+        <attvalues>
+          <attvalue for="0" value="49.45439910888672" />
+          <attvalue for="1" value="2.1127800941467285" />
+          <attvalue for="2" value="Beauvais" />
+        </attvalues>
+      </node>
+      <node id="DSA" label="DSA">
+        <attvalues>
+          <attvalue for="0" value="53.4805378105" />
+          <attvalue for="1" value="-1.01065635681" />
+          <attvalue for="2" value="Doncaster, Sheffield" />
+        </attvalues>
+      </node>
+      <node id="BLL" label="BLL">
+        <attvalues>
+          <attvalue for="0" value="55.7402992249" />
+          <attvalue for="1" value="9.15178012848" />
+          <attvalue for="2" value="Billund" />
+        </attvalues>
+      </node>
+      <node id="BSL" label="BSL">
+        <attvalues>
+          <attvalue for="0" value="47.59" />
+          <attvalue for="1" value="7.5291667" />
+          <attvalue for="2" value="Mulhouse" />
+        </attvalues>
+      </node>
+      <node id="CLJ" label="CLJ">
+        <attvalues>
+          <attvalue for="0" value="46.78519821166992" />
+          <attvalue for="1" value="23.686199188232425" />
+          <attvalue for="2" value="Cluj-napoca" />
+        </attvalues>
+      </node>
+      <node id="DME" label="DME">
+        <attvalues>
+          <attvalue for="0" value="55.40879821777344" />
+          <attvalue for="1" value="37.90629959106445" />
+          <attvalue for="2" value="Moscow" />
+        </attvalues>
+      </node>
+      <node id="BHX" label="BHX">
+        <attvalues>
+          <attvalue for="0" value="52.4538993835" />
+          <attvalue for="1" value="-1.7480299472799998" />
+          <attvalue for="2" value="Birmingham" />
+        </attvalues>
+      </node>
+      <node id="BOD" label="BOD">
+        <attvalues>
+          <attvalue for="0" value="44.8283004761" />
+          <attvalue for="1" value="-0.7155560255050001" />
+          <attvalue for="2" value="Bordeaux" />
+        </attvalues>
+      </node>
+      <node id="BRE" label="BRE">
+        <attvalues>
+          <attvalue for="0" value="53.0475006104" />
+          <attvalue for="1" value="8.78666973114" />
+          <attvalue for="2" value="Bremen" />
+        </attvalues>
+      </node>
+      <node id="BRS" label="BRS">
+        <attvalues>
+          <attvalue for="0" value="51.382702" />
+          <attvalue for="1" value="-2.71909" />
+          <attvalue for="2" value="Bristol" />
+        </attvalues>
+      </node>
+      <node id="AAL" label="AAL">
+        <attvalues>
+          <attvalue for="0" value="57.0927589138" />
+          <attvalue for="1" value="9.84924316406" />
+          <attvalue for="2" value="Aalborg" />
+        </attvalues>
+      </node>
+      <node id="BIO" label="BIO">
+        <attvalues>
+          <attvalue for="0" value="43.30110168457031" />
+          <attvalue for="1" value="-2.9106099605560303" />
+          <attvalue for="2" value="Bilbao" />
+        </attvalues>
+      </node>
+      <node id="BCN" label="BCN">
+        <attvalues>
+          <attvalue for="0" value="41.2971" />
+          <attvalue for="1" value="2.07846" />
+          <attvalue for="2" value="Barcelona" />
+        </attvalues>
+      </node>
+      <node id="BGO" label="BGO">
+        <attvalues>
+          <attvalue for="0" value="60.29339981" />
+          <attvalue for="1" value="5.218140125" />
+          <attvalue for="2" value="Bergen" />
+        </attvalues>
+      </node>
+      <node id="BFS" label="BFS">
+        <attvalues>
+          <attvalue for="0" value="54.6575012207" />
+          <attvalue for="1" value="-6.21582984924" />
+          <attvalue for="2" value="Belfast" />
+        </attvalues>
+      </node>
+      <node id="CGN" label="CGN">
+        <attvalues>
+          <attvalue for="0" value="50.8658981323" />
+          <attvalue for="1" value="7.1427397728" />
+          <attvalue for="2" value="Cologne" />
+        </attvalues>
+      </node>
+      <node id="CPH" label="CPH">
+        <attvalues>
+          <attvalue for="0" value="55.617900848389" />
+          <attvalue for="1" value="12.656000137329" />
+          <attvalue for="2" value="Copenhagen" />
+        </attvalues>
+      </node>
+      <node id="ALC" label="ALC">
+        <attvalues>
+          <attvalue for="0" value="38.28219985961914" />
+          <attvalue for="1" value="-0.5581560134887695" />
+          <attvalue for="2" value="Alicante" />
+        </attvalues>
+      </node>
+      <node id="ANR" label="ANR">
+        <attvalues>
+          <attvalue for="0" value="51.1893997192" />
+          <attvalue for="1" value="4.46027994156" />
+          <attvalue for="2" value="Antwerp" />
+        </attvalues>
+      </node>
+      <node id="ARN" label="ARN">
+        <attvalues>
+          <attvalue for="0" value="59.651901245117" />
+          <attvalue for="1" value="17.918600082397" />
+          <attvalue for="2" value="Stockholm" />
+        </attvalues>
+      </node>
+      <node id="BUD" label="BUD">
+        <attvalues>
+          <attvalue for="0" value="47.42976" />
+          <attvalue for="1" value="19.261093" />
+          <attvalue for="2" value="Budapest" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AAR" target="CRL" id="0" weight="767.0493490651211" />
+      <edge source="AAR" target="BGY" id="1" weight="1183.6458446725062" />
+      <edge source="AAR" target="BOH" id="2" weight="1024.8544965099265" />
+      <edge source="AAR" target="BHX" id="3" weight="906.4507267707525" />
+      <edge source="AAR" target="DME" id="4" weight="1695.3162121002604" />
+      <edge source="AAR" target="CGN" id="5" weight="646.3468975908013" />
+      <edge source="AAR" target="BRU" id="6" weight="723.6312991724037" />
+      <edge source="AAR" target="BVA" id="7" weight="950.2890482763908" />
+      <edge source="AAR" target="BRE" id="8" weight="380.45067289482137" />
+      <edge source="AAR" target="BCN" id="9" weight="1779.0168838577338" />
+      <edge source="AAR" target="BUD" id="10" weight="1149.4590766583522" />
+      <edge source="AAR" target="BGO" id="11" weight="544.5693600883639" />
+      <edge source="AAR" target="BSL" id="12" weight="991.4434769056958" />
+      <edge source="AAR" target="CWL" id="13" weight="1063.3538856400003" />
+      <edge source="AAR" target="DSA" id="14" weight="806.1046447003839" />
+      <edge source="AAR" target="BOD" id="15" weight="1502.1956842625286" />
+      <edge source="AAR" target="ANR" id="16" weight="697.4514799845255" />
+      <edge source="AAR" target="BRS" id="17" weight="1029.579289445194" />
+      <edge source="AAR" target="CLJ" id="18" weight="1387.1577628928137" />
+      <edge source="AAR" target="AAL" id="19" weight="99.92628387935571" />
+      <edge source="AAR" target="BIO" id="20" weight="1735.0380833907539" />
+      <edge source="AAR" target="ALC" id="21" weight="2167.8747839277617" />
+      <edge source="AAR" target="BFS" id="22" weight="1073.977906638803" />
+      <edge source="AAR" target="ARN" id="23" weight="568.978531352393" />
+      <edge source="AAR" target="BLQ" id="24" weight="1309.4185941513413" />
+      <edge source="AAR" target="CAT" id="25" weight="2445.351500588536" />
+      <edge source="CRL" target="CAT" id="26" weight="1697.2527860046432" />
+      <edge source="CRL" target="AAL" id="27" weight="818.0509123784154" />
+      <edge source="CRL" target="BHX" id="28" weight="483.4982707809128" />
+      <edge source="CRL" target="DME" id="29" weight="2285.1850902902265" />
+      <edge source="CRL" target="CGN" id="30" weight="194.8978465827454" />
+      <edge source="CRL" target="BVA" id="31" weight="201.37226573561585" />
+      <edge source="CRL" target="BRS" id="32" weight="513.1117565029045" />
+      <edge source="CRL" target="BRE" id="33" weight="414.4631060297942" />
+      <edge source="CRL" target="CWL" id="34" weight="556.215460814405" />
+      <edge source="CRL" target="ANR" id="35" weight="81.22103875156091" />
+      <edge source="CRL" target="BLL" id="36" weight="665.5991262149025" />
+      <edge source="CRL" target="BSL" id="37" weight="390.0070446547624" />
+      <edge source="CRL" target="DSA" id="38" weight="502.8913237426806" />
+      <edge source="CRL" target="BIO" id="39" weight="972.3100639166805" />
+      <edge source="CRL" target="BGO" id="40" weight="1094.903083746029" />
+      <edge source="CRL" target="BOH" id="41" weight="445.63517763257283" />
+      <edge source="CRL" target="BFS" id="42" weight="858.0609703015641" />
+      <edge source="BLQ" target="CWL" id="43" weight="1326.556348600147" />
+      <edge source="BLQ" target="DSA" id="44" weight="1336.1688167153866" />
+      <edge source="BLQ" target="BOD" id="45" weight="949.074274163241" />
+      <edge source="BLQ" target="AAL" id="46" weight="1400.3306492605632" />
+      <edge source="BLQ" target="BRS" id="47" weight="1288.2777984577326" />
+      <edge source="BLQ" target="ANR" id="48" weight="897.7290939986791" />
+      <edge source="BLQ" target="CAT" id="49" weight="1827.7709337469846" />
+      <edge source="BLQ" target="BLL" id="50" weight="1255.4383351373656" />
+      <edge source="BLQ" target="BOH" id="51" weight="1201.477678692751" />
+      <edge source="BLQ" target="BRU" id="52" weight="871.35153419841" />
+      <edge source="BLQ" target="BRE" id="53" weight="964.2289542781756" />
+      <edge source="BLQ" target="BIO" id="54" weight="1144.456759473114" />
+      <edge source="BLQ" target="BGO" id="55" weight="1798.6583746542815" />
+      <edge source="BLQ" target="BFS" id="56" weight="1682.7783363684925" />
+      <edge source="BLQ" target="BHX" id="57" weight="1299.9396759138422" />
+      <edge source="BLQ" target="BSL" id="58" weight="446.68779451982465" />
+      <edge source="CWL" target="BLL" id="59" weight="954.3483302939723" />
+      <edge source="CWL" target="BOD" id="60" weight="756.0835913734138" />
+      <edge source="CWL" target="BRU" id="61" weight="548.6810532235075" />
+      <edge source="CWL" target="BSL" id="62" weight="891.1144812987013" />
+      <edge source="CWL" target="BGY" id="63" weight="1150.085443892617" />
+      <edge source="CWL" target="BFS" id="64" weight="410.3769234694361" />
+      <edge source="CWL" target="BUD" id="65" weight="1686.7120284721047" />
+      <edge source="CWL" target="CPH" id="66" weight="1154.3843425286855" />
+      <edge source="CWL" target="BIO" id="67" weight="901.0580931227062" />
+      <edge source="CWL" target="DSA" id="68" weight="280.57698199568824" />
+      <edge source="CWL" target="BGO" id="69" weight="1122.6872028533387" />
+      <edge source="CWL" target="BHX" id="70" weight="160.6235168986055" />
+      <edge source="CWL" target="CAT" id="71" weight="1485.2451630169662" />
+      <edge source="CWL" target="ARN" id="72" weight="1611.989023657674" />
+      <edge source="CWL" target="CGN" id="73" weight="733.6822354348889" />
+      <edge source="CWL" target="CLJ" id="74" weight="2021.8074422300358" />
+      <edge source="CWL" target="BRS" id="75" weight="43.356113277944665" />
+      <edge source="CWL" target="AAL" id="76" weight="1063.190133536562" />
+      <edge source="CWL" target="ANR" id="77" weight="543.0216430578546" />
+      <edge source="CWL" target="DME" id="78" weight="2729.9214291580615" />
+      <edge source="CWL" target="BVA" id="79" weight="442.7354757633744" />
+      <edge source="CWL" target="BCN" id="80" weight="1197.194186443255" />
+      <edge source="CWL" target="BRE" id="81" weight="845.5741086540057" />
+      <edge source="BOH" target="BRU" id="82" weight="444.4685210151634" />
+      <edge source="BOH" target="BHX" id="83" weight="186.3019211479214" />
+      <edge source="BOH" target="BVA" id="84" weight="318.2516862271796" />
+      <edge source="BOH" target="DME" id="85" weight="2666.0744837775114" />
+      <edge source="BOH" target="BRE" id="86" weight="770.7896786151705" />
+      <edge source="BOH" target="CPH" id="87" weight="1102.7709871019035" />
+      <edge source="BOH" target="AAL" id="88" weight="1036.269202957577" />
+      <edge source="BOH" target="ANR" id="89" weight="443.539261423283" />
+      <edge source="BOH" target="BSL" id="90" weight="767.4148978559006" />
+      <edge source="BOH" target="DSA" id="91" weight="305.6974664966825" />
+      <edge source="BOH" target="BCN" id="92" weight="1096.9575932145117" />
+      <edge source="BOH" target="ARN" id="93" weight="1585.2520201371199" />
+      <edge source="BOH" target="BLL" id="94" weight="914.512447311305" />
+      <edge source="BOH" target="BRS" id="95" weight="90.80670328070205" />
+      <edge source="BOH" target="CLJ" id="96" weight="1912.6764288760048" />
+      <edge source="BOH" target="BGY" id="97" weight="1025.1505229439992" />
+      <edge source="BOH" target="BIO" id="98" weight="835.7822363572702" />
+      <edge source="BOH" target="CAT" id="99" weight="1464.4850792932496" />
+      <edge source="BOH" target="BOD" id="100" weight="667.3164271590216" />
+      <edge source="BOH" target="BGO" id="101" weight="1146.1753619141678" />
+      <edge source="BOH" target="BFS" id="102" weight="522.114555503807" />
+      <edge source="BOH" target="CGN" id="103" weight="631.039635907106" />
+      <edge source="BRU" target="BHX" id="104" weight="463.0621296764377" />
+      <edge source="BRU" target="AAL" id="105" weight="772.2945599563169" />
+      <edge source="BRU" target="ANR" id="106" weight="32.078514057718756" />
+      <edge source="BRU" target="DSA" id="107" weight="471.68494149489624" />
+      <edge source="BRU" target="BRS" id="108" weight="505.33057522109135" />
+      <edge source="BRU" target="BRE" id="109" weight="379.2032980659642" />
+      <edge source="BRU" target="CLJ" id="110" weight="1473.328586516413" />
+      <edge source="BRU" target="DME" id="111" weight="2261.401302642959" />
+      <edge source="BRU" target="BVA" id="112" weight="233.312356304227" />
+      <edge source="BRU" target="BGY" id="113" weight="697.6956329985288" />
+      <edge source="BRU" target="BFS" id="114" weight="831.1066916380747" />
+      <edge source="BRU" target="CAT" id="115" weight="1733.8427837515983" />
+      <edge source="BRU" target="BGO" id="116" weight="1045.6706191184644" />
+      <edge source="BRU" target="BOD" id="117" weight="778.5688711666311" />
+      <edge source="CAT" target="CGN" id="118" weight="1867.7306255198548" />
+      <edge source="CAT" target="AAL" id="119" weight="2476.1036385957063" />
+      <edge source="CAT" target="ANR" id="120" weight="1755.875001055912" />
+      <edge source="CAT" target="CPH" id="121" weight="2488.3493644905902" />
+      <edge source="CAT" target="ALC" id="122" weight="767.0270225821467" />
+      <edge source="CAT" target="BVA" id="123" weight="1500.9805787834841" />
+      <edge source="CAT" target="BRS" id="124" weight="1499.8437205898954" />
+      <edge source="CAT" target="BCN" id="125" weight="1014.3310772646113" />
+      <edge source="CAT" target="ARN" id="126" weight="3014.298455237037" />
+      <edge source="CAT" target="BRE" id="127" weight="2111.690853605261" />
+      <edge source="CAT" target="BLL" id="128" weight="2337.006117891433" />
+      <edge source="CAT" target="BOD" id="129" weight="986.0917018834941" />
+      <edge source="CAT" target="DSA" id="130" weight="1760.046258385765" />
+      <edge source="CAT" target="BSL" id="131" weight="1682.0124684139937" />
+      <edge source="CAT" target="BGY" id="132" weight="1744.445420559655" />
+      <edge source="CAT" target="BFS" id="133" weight="1787.8262582714055" />
+      <edge source="CAT" target="BUD" id="134" weight="2500.4608589569157" />
+      <edge source="CAT" target="CLJ" id="135" weight="2819.3917755850853" />
+      <edge source="CAT" target="BIO" id="136" weight="742.2974045887029" />
+      <edge source="CAT" target="BGO" id="137" weight="2606.2114804205357" />
+      <edge source="CAT" target="DME" id="138" weight="3932.600011229722" />
+      <edge source="CAT" target="BHX" id="139" weight="1635.64362504283" />
+      <edge source="BGY" target="BSL" id="140" weight="270.200069649489" />
+      <edge source="BGY" target="AAL" id="141" weight="1270.1568315767379" />
+      <edge source="BGY" target="DSA" id="142" weight="1159.9372672451643" />
+      <edge source="BGY" target="ANR" id="143" weight="724.9345386983412" />
+      <edge source="BGY" target="BIO" id="144" weight="1033.9819829117637" />
+      <edge source="BGY" target="BFS" id="145" weight="1505.4069754502843" />
+      <edge source="BGY" target="DME" id="146" weight="2246.5614079549046" />
+      <edge source="BGY" target="BRE" id="147" weight="822.8342660993083" />
+      <edge source="BGY" target="BGO" id="148" weight="1652.6973461226307" />
+      <edge source="BVA" target="DSA" id="149" weight="497.2647823532766" />
+      <edge source="BVA" target="BHX" id="150" weight="429.39882159702347" />
+      <edge source="BVA" target="DME" id="151" weight="2485.572010781541" />
+      <edge source="BVA" target="AAL" id="152" weight="991.9069459412665" />
+      <edge source="BVA" target="ANR" id="153" weight="254.99480027171964" />
+      <edge source="BVA" target="CGN" id="154" weight="391.1995265359951" />
+      <edge source="BVA" target="BRS" id="155" weight="403.9474914696754" />
+      <edge source="BVA" target="BRE" id="156" weight="612.4260998499593" />
+      <edge source="BVA" target="ARN" id="157" weight="1517.486026121636" />
+      <edge source="BVA" target="BIO" id="158" weight="785.0966222811616" />
+      <edge source="BVA" target="BLL" id="159" weight="844.6594244738836" />
+      <edge source="BVA" target="CPH" id="160" weight="987.3817832604825" />
+      <edge source="BVA" target="BSL" id="161" weight="449.5501140682967" />
+      <edge source="BVA" target="BFS" id="162" weight="811.011093776183" />
+      <edge source="BVA" target="BGO" id="163" weight="1221.54718190549" />
+      <edge source="DSA" target="BRS" id="164" weight="260.504776838745" />
+      <edge source="DSA" target="BCN" id="165" weight="1374.6421901880146" />
+      <edge source="DSA" target="ARN" id="166" weight="1340.973981343065" />
+      <edge source="DSA" target="BRE" id="167" weight="653.0718563421174" />
+      <edge source="DSA" target="BLL" id="168" weight="700.4207805982734" />
+      <edge source="DSA" target="BSL" id="169" weight="889.7523092821011" />
+      <edge source="DSA" target="DME" id="170" weight="2493.1332148215524" />
+      <edge source="DSA" target="BFS" id="171" weight="363.9866752529953" />
+      <edge source="DSA" target="BUD" id="172" weight="1578.222363007275" />
+      <edge source="DSA" target="CPH" id="173" weight="911.4934371864608" />
+      <edge source="DSA" target="BIO" id="174" weight="1140.8107161328935" />
+      <edge source="DSA" target="BOD" id="175" weight="962.6240365046888" />
+      <edge source="DSA" target="BGO" id="176" weight="846.1939575386934" />
+      <edge source="DSA" target="BHX" id="177" weight="124.41721274656555" />
+      <edge source="DSA" target="CGN" id="178" weight="627.112717470154" />
+      <edge source="DSA" target="CLJ" id="179" weight="1899.5341537661254" />
+      <edge source="DSA" target="AAL" id="180" weight="795.3186455016374" />
+      <edge source="DSA" target="ANR" id="181" weight="450.5912352782431" />
+      <edge source="BLL" target="BSL" id="182" weight="913.3746123083458" />
+      <edge source="BLL" target="ANR" id="183" weight="593.6149649150746" />
+      <edge source="BLL" target="BOD" id="184" weight="1398.6812353005555" />
+      <edge source="BLL" target="BRS" id="185" weight="920.1321885899125" />
+      <edge source="BLL" target="CLJ" id="186" weight="1414.3582658141338" />
+      <edge source="BLL" target="DME" id="187" weight="1795.5135299685612" />
+      <edge source="BLL" target="BIO" id="188" weight="1629.7527300424906" />
+      <edge source="BLL" target="BGO" id="189" weight="556.7131714347497" />
+      <edge source="BLL" target="BFS" id="190" weight="980.9108418763817" />
+      <edge source="BLL" target="CGN" id="191" weight="558.319278549574" />
+      <edge source="BLL" target="BRE" id="192" weight="300.45015839565457" />
+      <edge source="BLL" target="BHX" id="193" weight="798.2189974647802" />
+      <edge source="BSL" target="BFS" id="194" weight="1236.738108753422" />
+      <edge source="BSL" target="BIO" id="195" weight="942.9219366208711" />
+      <edge source="BSL" target="BGO" id="196" weight="1420.8536191871538" />
+      <edge source="BSL" target="BHX" id="197" weight="854.5724612760197" />
+      <edge source="BSL" target="AAL" id="198" weight="1068.5221875982052" />
+      <edge source="BSL" target="DME" id="199" weight="2253.3689305592693" />
+      <edge source="BSL" target="ANR" id="200" weight="457.78543325466455" />
+      <edge source="BSL" target="ARN" id="201" weight="1502.5395752643694" />
+      <edge source="BSL" target="BRE" id="202" weight="613.5451107706226" />
+      <edge source="CLJ" target="DME" id="203" weight="1375.9442820547044" />
+      <edge source="CLJ" target="BRS" id="204" weight="1978.4845745736309" />
+      <edge source="CLJ" target="BRE" id="205" weight="1270.5325241907685" />
+      <edge source="CLJ" target="ARN" id="206" weight="1480.4500397948889" />
+      <edge source="CLJ" target="ALC" id="207" weight="2188.7349323397184" />
+      <edge source="CLJ" target="CPH" id="208" weight="1244.3798617941563" />
+      <edge source="CLJ" target="BIO" id="209" weight="2115.319473033634" />
+      <edge source="CLJ" target="BOD" id="210" weight="1896.7571850582551" />
+      <edge source="CLJ" target="BGO" id="211" weight="1922.1209508532697" />
+      <edge source="CLJ" target="BFS" id="212" weight="2258.728462667228" />
+      <edge source="CLJ" target="BHX" id="213" weight="1926.2921916647651" />
+      <edge source="CLJ" target="AAL" id="214" weight="1482.4810316877529" />
+      <edge source="CLJ" target="ANR" id="215" weight="1481.2084288766748" />
+      <edge source="DME" target="BHX" id="216" weight="2581.6469222911855" />
+      <edge source="DME" target="BRS" id="217" weight="2691.5353648911346" />
+      <edge source="DME" target="AAL" id="218" weight="1731.4185585564717" />
+      <edge source="DME" target="BRE" id="219" weight="1897.2263804712072" />
+      <edge source="DME" target="ANR" id="220" weight="2249.1400607995097" />
+      <edge source="DME" target="ARN" id="221" weight="1277.3244465756225" />
+      <edge source="DME" target="BIO" id="222" weight="3190.585506029389" />
+      <edge source="DME" target="BOD" id="223" weight="2947.5970466762815" />
+      <edge source="DME" target="BFS" id="224" weight="2766.390146513732" />
+      <edge source="DME" target="BUD" id="225" weight="1560.730230122108" />
+      <edge source="DME" target="CPH" id="226" weight="1581.6430373235373" />
+      <edge source="DME" target="BGO" id="227" weight="1986.5243497010579" />
+      <edge source="BHX" target="BRE" id="228" weight="711.6718558493145" />
+      <edge source="BHX" target="AAL" id="229" weight="903.5973016182234" />
+      <edge source="BHX" target="ANR" id="230" weight="449.24192570385037" />
+      <edge source="BHX" target="ARN" id="231" weight="1451.9772302567953" />
+      <edge source="BHX" target="BOD" id="232" weight="851.5574772646759" />
+      <edge source="BHX" target="BRS" id="233" weight="136.50578503110722" />
+      <edge source="BHX" target="BIO" id="234" weight="1021.7153611161981" />
+      <edge source="BHX" target="BGO" id="235" weight="970.609917224005" />
+      <edge source="BOD" target="BRE" id="236" weight="1145.9003991200248" />
+      <edge source="BOD" target="CPH" id="237" weight="1526.140415165052" />
+      <edge source="BOD" target="ARN" id="238" weight="2065.5754720170667" />
+      <edge source="BOD" target="ALC" id="239" weight="728.2391055994536" />
+      <edge source="BOD" target="BIO" id="240" weight="244.18427337568866" />
+      <edge source="BOD" target="BGO" id="241" weight="1764.6260441324516" />
+      <edge source="BOD" target="BFS" id="242" weight="1161.7008052900844" />
+      <edge source="BOD" target="BRS" id="243" weight="744.0001299428657" />
+      <edge source="BOD" target="AAL" id="244" weight="1547.9665671340501" />
+      <edge source="BOD" target="ANR" id="245" weight="805.1036330071389" />
+      <edge source="BOD" target="CGN" id="246" weight="890.6827673839739" />
+      <edge source="BRE" target="BGO" id="247" weight="834.6387974969319" />
+      <edge source="BRE" target="BIO" id="248" weight="1384.915208996719" />
+      <edge source="BRE" target="BFS" id="249" weight="998.4638493843859" />
+      <edge source="BRE" target="BRS" id="250" weight="804.727735688201" />
+      <edge source="BRE" target="AAL" id="251" weight="454.9988145278577" />
+      <edge source="BRE" target="ANR" id="252" weight="360.4937880922358" />
+      <edge source="BRE" target="BCN" id="253" weight="1400.4644549368527" />
+      <edge source="BRE" target="ARN" id="254" weight="923.7162201501995" />
+      <edge source="BRE" target="CPH" id="255" weight="380.30083964405463" />
+      <edge source="BRE" target="BUD" id="256" weight="970.7927435129606" />
+      <edge source="BRS" target="ARN" id="257" weight="1581.4852551809167" />
+      <edge source="BRS" target="BIO" id="258" weight="899.0300791719171" />
+      <edge source="BRS" target="BGO" id="259" weight="1106.4022018963053" />
+      <edge source="BRS" target="CPH" id="260" weight="1117.8685005761977" />
+      <edge source="BRS" target="AAL" id="261" weight="1032.173920619538" />
+      <edge source="BRS" target="ANR" id="262" weight="499.70796889780536" />
+      <edge source="AAL" target="BIO" id="263" weight="1776.3634069050463" />
+      <edge source="AAL" target="ALC" id="264" weight="2226.809174279585" />
+      <edge source="AAL" target="ARN" id="265" weight="549.5163821682657" />
+      <edge source="AAL" target="CGN" id="266" weight="714.7339091262111" />
+      <edge source="AAL" target="BCN" id="267" weight="1842.667669189735" />
+      <edge source="AAL" target="BUD" id="268" weight="1248.7427212894504" />
+      <edge source="AAL" target="BGO" id="269" weight="445.1828693986059" />
+      <edge source="AAL" target="BFS" id="270" weight="1035.6834835732136" />
+      <edge source="AAL" target="ANR" id="271" weight="744.0834513918633" />
+      <edge source="BIO" target="CPH" id="272" weight="1764.6669928631006" />
+      <edge source="BIO" target="ANR" id="273" weight="1037.877631567027" />
+      <edge source="BIO" target="BUD" id="274" weight="1785.6955746925817" />
+      <edge source="BIO" target="ARN" id="275" weight="2301.0023539966555" />
+      <edge source="BIO" target="BGO" id="276" weight="1967.529259726584" />
+      <edge source="BIO" target="BFS" id="277" weight="1285.6375571327799" />
+      <edge source="BIO" target="CGN" id="278" weight="1132.7977117139935" />
+      <edge source="BCN" target="BFS" id="279" weight="1606.6522434242725" />
+      <edge source="BCN" target="ANR" id="280" weight="1115.3086366770374" />
+      <edge source="BCN" target="BGO" id="281" weight="2123.869631067485" />
+      <edge source="BGO" target="BFS" id="282" weight="925.3629859069047" />
+      <edge source="BGO" target="BUD" id="283" weight="1693.9194034210402" />
+      <edge source="BGO" target="ANR" id="284" weight="1013.7301553169606" />
+      <edge source="BGO" target="ARN" id="285" weight="709.394047999807" />
+      <edge source="BGO" target="CGN" id="286" weight="1055.4619183820969" />
+      <edge source="BFS" target="CGN" id="287" weight="991.0510534632701" />
+      <edge source="BFS" target="ANR" id="288" weight="812.0536451887536" />
+      <edge source="BFS" target="BUD" id="289" weight="1940.4976950170362" />
+      <edge source="BFS" target="ARN" id="290" weight="1547.7109810794934" />
+      <edge source="BFS" target="CPH" id="291" weight="1200.8630848110959" />
+      <edge source="CGN" target="ANR" id="292" weight="191.06528143319886" />
+      <edge source="CPH" target="ANR" id="293" weight="732.6200718146397" />
+      <edge source="ANR" target="ARN" id="294" weight="1263.3232168668555" />
+      <edge source="ANR" target="BUD" id="295" weight="1149.4127313673107" />
+      <edge source="ARN" target="BUD" id="296" weight="1362.28820063071" />
+    </edges>
+  </graph>
+</gexf>
